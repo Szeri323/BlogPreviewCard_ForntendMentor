@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Checkout on centerdiv.pl](https://centerdiv.pl/projects/others/frontendmentor/BlogPreviewCard)
-- Solution URL: [Checkout on frontendmentor.pl](https://centerdiv.pl/projects/others/frontendmentor/BlogPreviewCard)
+- Live Site URL: [Checkout on centerdiv.pl](https://centerdiv.pl/projects/others/frontendmentor/BlogPreviewCard/blog-preview-card.html)
+- Solution URL: [Checkout on frontendmentor.pl](https://www.frontendmentor.io/solutions/html-bem-css-custom-propertiesandpseudoclasses-flexbox-mobilefirst-Jg8X1VSPiw)
 
 ## My process
 
